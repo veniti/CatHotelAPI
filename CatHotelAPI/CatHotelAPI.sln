@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatHotelAPI.API", "WebApplication1\CatHotelAPI.API.csproj", "{012D176B-70B1-4823-AA39-E773C9903B62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatHotelAPI.API", "CatHotelAPI.API\CatHotelAPI.API.csproj", "{1FCA11CE-F16A-43A7-AECA-F0A35E68A211}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{012D176B-70B1-4823-AA39-E773C9903B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{012D176B-70B1-4823-AA39-E773C9903B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{012D176B-70B1-4823-AA39-E773C9903B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{012D176B-70B1-4823-AA39-E773C9903B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCA11CE-F16A-43A7-AECA-F0A35E68A211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCA11CE-F16A-43A7-AECA-F0A35E68A211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCA11CE-F16A-43A7-AECA-F0A35E68A211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCA11CE-F16A-43A7-AECA-F0A35E68A211}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
